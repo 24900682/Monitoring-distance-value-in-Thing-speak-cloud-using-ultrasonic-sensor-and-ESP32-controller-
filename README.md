@@ -1,6 +1,6 @@
 # Monitoring-distance-value-in-Thing-speak-cloud-using-ultrasonic-sensor-and-ESP32-controller
-### NAME: VIGNESH G
-### REG NO: 24900905
+### NAME: ASWIN L
+### REG NO: 24900682
 
 # Uploading ultrasonic sensor data in Thing Speak cloud
 
