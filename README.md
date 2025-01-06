@@ -1,6 +1,6 @@
-# Monitoring-distance-value-in-Thing-speak-cloud-using-ultrasonic-sensor-and-ESP32-controller
-### NAME: ASWIN L
-### REG NO: 24900682
+### Name: Aswin.L
+### Reg No: 24900682
+# Monitoring distance value in Thing speak cloud using ultrasonic sensor and ESP32 controller
 
 # Uploading ultrasonic sensor data in Thing Speak cloud
 
